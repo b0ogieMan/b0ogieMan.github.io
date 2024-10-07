@@ -78,6 +78,11 @@ section {
     text-decoration: none;
 }
 
+.links .link:hover {
+    background-color: #CDD4FF;
+    color: #4760FF;
+}
+
 .intro {
     text-align: justify;
     padding: 2rem ;
